@@ -1,4 +1,4 @@
-Hi, I’m Zalfa Nafila Khairunnisa,
+Hi, I’m Zalfa Nafila,
 I'm a 16 years old indonesian high school student and i'm really interested in programming:)
 I’m currently learning Basic Programming Algorithms in C++ and i also do some CTF stuff:D
 find me on ig : @noobiesst.exe  
