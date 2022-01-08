@@ -4,4 +4,5 @@ I’m currently learning Basic Programming Algorithms in C++ and i also do some 
 #--#  
 my CTF profile : https://rasyidmf.com/Users/?id=1349  
 typing practice >> https://10fastfingers.com/user/2392727/  
-Osu! lolXD : https://osu.ppy.sh/users/24604807
+Osu! lolXD : https://osu.ppy.sh/users/24604807  
+Youtube (mostly about a solution) : https://youtube.com/channel/UCaYr4zpCeMfxEUwwnPA_RBA
