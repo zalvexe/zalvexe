@@ -9,7 +9,7 @@ Also, other things i do besides programming🌼 :
 - MINECRAFT OF COURSE
 
 my CTF profile (RasyidMf website) : https://rasyidmf.com/Users/?id=1349  
-CTF Learn : https://ctflearn.com/user/zalfahehe
+CTF Learn : https://ctflearn.com/user/zalfahehe  
 typing practice >> https://10fastfingers.com/user/2392727/  
 Osu! lol:] : https://osu.ppy.sh/users/24604807  
 Vjudge : https://vjudge.net/user/zalfa 
