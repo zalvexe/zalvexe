@@ -8,6 +8,7 @@ Also, other things i do besides programming🌼 :
 - Rubiks cube
 - MINECRAFT OF COURSE
 
+Youtubee  : https://www.youtube.com/channel/UCaYr4zpCeMfxEUwwnPA_RBA  
 my CTF profile (RasyidMf website) : https://rasyidmf.com/Users/?id=1349  
 CTF Learn : https://ctflearn.com/user/zalfahehe  
 typing practice >> https://10fastfingers.com/user/2392727/  
