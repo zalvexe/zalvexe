@@ -1,5 +1,5 @@
 Hi, I’m Zalfa Nafila,
-i'm a 18 year old electrical eng student who really interested in programming:)    
+i'm an 18 year old electrical eng student who really interested in programming:)
 I’m currently learning programming algorithms in C++ and i also do some CTF (Capture The Flag) :D
 
 Also, other things i do besides programming🌼 :
