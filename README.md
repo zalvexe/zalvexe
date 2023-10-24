@@ -8,7 +8,7 @@ Also, other things i do besides programming🌼 :
 - Rubiks cube
 - MINECRAFT OF COURSE
 
-Youtubee  : https://www.youtube.com/@zylva  
+Youtubee  : https://www.youtube.com/@unknownzee25 
 CTF Learn : https://ctflearn.com/user/zalv  
 typing practice >> https://10fastfingers.com/user/2392727/  
 Osu! lol:] : https://osu.ppy.sh/users/24604807  
