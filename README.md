@@ -10,7 +10,7 @@ Also, other things i do besides programming🌼 :
 
 
 CTF Learn : https://ctflearn.com/user/zalv    
-Osu! lol:] : https://osu.ppy.sh/users/24604807  
-Youtubee  : https://www.youtube.com/@unknownzee25   
-Vjudge : https://vjudge.net/user/zalfa   
+Osu! lol:] : https://osu.ppy.sh/users/24604807     
+Vjudge : https://vjudge.net/user/zalfa  
+
 TLX TOKI : https://tlx.toki.id/profiles/zalfaa  
