@@ -9,7 +9,7 @@
 </pre>
 <h2>stuff i usually do</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,ros,arduino,linux,opencv,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ros,arduino,linux,opencv,py&center=true)](https://skillicons.dev)
 <pre>
     well other than those, i do code firmwares for STM32, ESP32, etc. 
     I also got few hobbies like: 🎹, 🎸, 🎨, 📖, 🎮
