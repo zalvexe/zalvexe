@@ -1,5 +1,6 @@
 <div align="center">
-<h1>hi, i'm zalfa</h1>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A0C1&center=true&vCenter=true&width=435&lines=hi%2C+im+zalfa%3AD)](https://git.io/typing-svg)    
 <img src="https://github.com/zalvexe/zalvexe/blob/main/assets/asset1.gif"/>
 <pre>
     an electrical eng student who has pretty huge interest in programming:)  
