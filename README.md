@@ -4,7 +4,7 @@
 <img src="https://github.com/zalvexe/zalvexe/blob/main/assets/asset1.gif"/>
 <pre>
     an electrical eng student who has pretty huge interest in programming:)  
-    Currently learning ROS (Robot Operating System) and sometimes enjoying some CTF, mostly in digital forensics    
+    currently learning ROS (Robot Operating System) and sometimes enjoying a bit of CTF, mostly in digital forensics    
     🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼  
 </pre>
 <h2>stuff i usually do</h2>
