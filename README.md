@@ -1,6 +1,6 @@
 <div align="center">
 <pre>
-    Hi, I’m **Zalfa**, an electrical eng student who really interested in programming:)  
+    Hi, I’m Zalfa, an electrical eng student who really interested in programming:)  
     Currently learning ROS (Robot Operating System) and OpenCV [and i also do some CTF (Capture The Flag)] :D    
     🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼  
 </pre>
