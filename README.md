@@ -1,6 +1,8 @@
 <div align="center">
+<h1>hi, i'm zalfa</h1>
+<img src="https://github.com/zalvexe/zalvexe/blob/main/assets/asset1.gif"/>
 <pre>
-    Hi, I’m Zalfa, an electrical eng student who really interested in programming:)  
+    an electrical eng student who has pretty huge interest in programming:)  
     Currently learning ROS (Robot Operating System) and OpenCV [and i also do some CTF (Capture The Flag)] :D    
     🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼🌼  
 </pre>
