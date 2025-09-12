@@ -24,5 +24,6 @@
 [![](https://img.shields.io/badge/vjudge-purple)](https://vjudge.net/user/zalfa)
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/24604807)
 [![](https://img.shields.io/badge/tlx_toki-blue)](https://tlx.toki.id/profiles/zalfaa)
+[![](https://img.shields.io/badge/codeforces-red)](https://codeforces.com/profile/Zylva)
 
 </div>
