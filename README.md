@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,ros,arduino,linux,opencv,py&center=true)](https://skillicons.dev)
 <pre>
     well other than those, i do code firmwares for STM32, ESP32, etc. 
-    Beyond the books and circuits, I escape into hobbies such as: 🎹, 🎸, 🎨, 📖, 🎮
+    beyond the books and circuits, i escape into hobbies such as: 🎹, 🎸, 🎨, 📖, 🎮
 </pre>
 <img src="https://github.com/zalvexe/zalvexe/blob/main/assets/asset2.gif" width="15%"/>
 <h2>more about me</h2>
